@@ -1,0 +1,9 @@
+20220821
+--------
+vb6 tallerFiscal
+-se agrego al formulario turnos los atributos:
+	-mobilidad
+	-email
+	-prepiking
+	
+Se agrega script 01-turnos.sql a ejecutar para crear los atributos mencionados en la db.
