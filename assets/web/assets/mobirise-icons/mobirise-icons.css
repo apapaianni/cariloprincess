@@ -476,8 +476,11 @@
   content: "\e995";
 }
 
-.card-wrapper-link, .item-wrapper {
+/*
+.card-wrapper-contact, .item-wrapper {
   overflow: hidden;
-  background: none;
+  background-color: deepskyblue;
   padding: 2rem 4rem;
+  opacity: 0.5;
 }
+*/
